@@ -1,0 +1,2 @@
+F:\AI\DepthBasics-D2D\Debug\DepthBasics-D2D.exe
+F:\AI\DepthBasics-D2D\Debug\DepthBasics-D2D.pdb
